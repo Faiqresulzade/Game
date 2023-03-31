@@ -1,0 +1,14 @@
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\bin\Debug\netcoreapp3.1\GameinConsole.exe
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\bin\Debug\netcoreapp3.1\GameinConsole.deps.json
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\bin\Debug\netcoreapp3.1\GameinConsole.runtimeconfig.json
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\bin\Debug\netcoreapp3.1\GameinConsole.runtimeconfig.dev.json
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\bin\Debug\netcoreapp3.1\GameinConsole.dll
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\bin\Debug\netcoreapp3.1\GameinConsole.pdb
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\obj\Debug\netcoreapp3.1\GameinConsole.csproj.AssemblyReference.cache
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\obj\Debug\netcoreapp3.1\GameinConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\obj\Debug\netcoreapp3.1\GameinConsole.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\obj\Debug\netcoreapp3.1\GameinConsole.AssemblyInfo.cs
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\obj\Debug\netcoreapp3.1\GameinConsole.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\obj\Debug\netcoreapp3.1\GameinConsole.dll
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\obj\Debug\netcoreapp3.1\GameinConsole.pdb
+C:\Users\Honor\Desktop\ag201\GameinConsole\GameinConsole\obj\Debug\netcoreapp3.1\GameinConsole.genruntimeconfig.cache
